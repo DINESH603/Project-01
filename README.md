@@ -1,2 +1,2 @@
 # Project-01
-Student_Portfolio--its a basic project done using Pyhton programming.
+Student_Portfolio--this project done using basic Pyhton commands, the input is taken from student and printed it as output.
